@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6D6B62C-DEBA-41AB-868A-21403C19A62D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>scosx</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>144D631C-1914-43A6-BC94-8BC58F4A5E77</key>
+		<string>https://github.com/jarinudom/spacecrash.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>scosx/scosx.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>144D631C-1914-43A6-BC94-8BC58F4A5E77</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jarinudom/spacecrash.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>144D631C-1914-43A6-BC94-8BC58F4A5E77</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>144D631C-1914-43A6-BC94-8BC58F4A5E77</string>
+			<key>IDESourceControlWCCName</key>
+			<string>spacecrash</string>
+		</dict>
+	</array>
+</dict>
+</plist>
