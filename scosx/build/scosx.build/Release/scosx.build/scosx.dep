@@ -1,0 +1,5 @@
+a4a9cd0d5f417f718787644a4551f4a5 579ae1f882bcfb2c45aacdaf56cc836c ffffffffffffffffffffffffffffffff 0 /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx.dSYM
+219fbebd55d45b3aa7133c0138f08a1e 853673b00a95244b2094584b7da17ebb ffffffffffffffffffffffffffffffff 11392 /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx
+00000000526dba4b0000000000000582 937000da79d445de8d547f501b9c9984 ffffffffffffffffffffffffffffffff 1868 /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o
+00000000526dba4b000000000000064d b8f7762a6e5d5ca511bc5afb61e1e64f ffffffffffffffffffffffffffffffff 6660 /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o
+00000000526dba4b00000000000006de 0a18c84d101ea3903bfb19aa42898875 ffffffffffffffffffffffffffffffff 5236 /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o

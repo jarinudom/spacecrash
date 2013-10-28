@@ -1,0 +1,234 @@
+Tscosx
+v6
+r1
+cCheck dependencies
+cCompileC build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o /Users/jarinudom/projects/spacecrash/src/game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o /Users/jarinudom/projects/spacecrash/src/sys_osx.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o /Users/jarinudom/projects/spacecrash/src/stdafx.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx normal x86_64
+cGenerateDSYMFile /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx.dSYM /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052678878000000000000044C
+t1382516856
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267887800000000000001DB
+t1382516856
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052678878000000000000253C
+t1382516856
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000005267887A0000000000044270
+t1382516858
+s279152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000005267887B000000000000A564
+t1382516859
+s42340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005267887B000000000000BB7C
+t1382516859
+s47996
+
+N/Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx
+t1382923271
+s11392
+
+N/Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx.dSYM
+t2
+s0
+
+N/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o
+t1382923271
+s5236
+
+N/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/scosx.LinkFileList
+c00000000526DBC07000000000000014F
+t1382923271
+s335
+
+N/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o
+t1382923271
+s1868
+
+N/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o
+t1382923271
+s6660
+
+N/Users/jarinudom/projects/spacecrash/src/game.cpp
+c00000000526DBA4B0000000000000349
+t1382922827
+s841
+
+N/Users/jarinudom/projects/spacecrash/src/stdafx.cpp
+c00000000526DBA4B0000000000000015
+t1382922827
+s21
+
+N/Users/jarinudom/projects/spacecrash/src/sys_osx.cpp
+c00000000526DBA4B00000000000003DA
+t1382922827
+s986
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies38481887f31db841^0e682187f31db841^---0#1#1#--18"Check dependencies36"76C38A65-ADCB-4F02-8D48-96702084DD7D-
+
+CCompileC build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o /Users/jarinudom/projects/spacecrash/src/game.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404616071.133473
+e404616071.478750
+r1
+xCompileC
+xbuild/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o
+x/Users/jarinudom/projects/spacecrash/src/game.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jarinudom/projects/spacecrash/src/game.cpp
+d/Users/jarinudom/projects/spacecrash/src/stdafx.h
+d/usr/local/include/GL/glfw.h
+d/Users/jarinudom/projects/spacecrash/src/base.h
+d/Users/jarinudom/projects/spacecrash/src/sys.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/jarinudom/projects/spacecrash/src/game.cpp203"[1mCompileC[0m build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o [1m/Users/jarinudom/projects/spacecrash/src/game.cpp[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerd7672287f31db841^9f8f7a87f31db841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/jarinudom/projects/spacecrash/src/game.cpp0000000000000000^2863"[1mCompileC[0m build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o [1m/Users/jarinudom/projects/spacecrash/src/game.cpp[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jarinudom/projects/spacecrash/scosx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=106 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-generated-files.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-own-target-headers.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-all-target-headers.hmap -iquote /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-project-headers.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/DerivedSources/x86_64 -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/DerivedSources -F/Users/jarinudom/projects/spacecrash/scosx/build/Release -MMD -MT dependencies -MF /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.d --serialize-diagnostics /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.dia -c /Users/jarinudom/projects/spacecrash/src/game.cpp -o /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o36"F18FDFBA-1D81-4D9F-A7A5-EC0178C63291-
+b6E967034-BF60-45C6-8AB3-E7CA2E32FCF2
+
+CCompileC build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o /Users/jarinudom/projects/spacecrash/src/stdafx.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404616071.134137
+e404616071.445514
+r1
+xCompileC
+xbuild/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o
+x/Users/jarinudom/projects/spacecrash/src/stdafx.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jarinudom/projects/spacecrash/src/stdafx.cpp
+d/Users/jarinudom/projects/spacecrash/src/stdafx.h
+d/usr/local/include/GL/glfw.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/jarinudom/projects/spacecrash/src/stdafx.cpp207"[1mCompileC[0m build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o [1m/Users/jarinudom/projects/spacecrash/src/stdafx.cpp[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilereb6e2287f31db841^4a0c7287f31db841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/jarinudom/projects/spacecrash/src/stdafx.cpp0000000000000000^2875"[1mCompileC[0m build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o [1m/Users/jarinudom/projects/spacecrash/src/stdafx.cpp[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jarinudom/projects/spacecrash/scosx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=106 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-generated-files.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-own-target-headers.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-all-target-headers.hmap -iquote /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-project-headers.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/DerivedSources/x86_64 -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/DerivedSources -F/Users/jarinudom/projects/spacecrash/scosx/build/Release -MMD -MT dependencies -MF /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.d --serialize-diagnostics /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.dia -c /Users/jarinudom/projects/spacecrash/src/stdafx.cpp -o /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o36"621C4865-8C49-44D1-9A82-4FAC103E6514-
+b6E967034-BF60-45C6-8AB3-E7CA2E32FCF2
+
+CCompileC build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o /Users/jarinudom/projects/spacecrash/src/sys_osx.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404616071.133796
+e404616071.479277
+r1
+xCompileC
+xbuild/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o
+x/Users/jarinudom/projects/spacecrash/src/sys_osx.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jarinudom/projects/spacecrash/src/sys_osx.cpp
+d/Users/jarinudom/projects/spacecrash/src/stdafx.h
+d/usr/local/include/GL/glfw.h
+d/Users/jarinudom/projects/spacecrash/src/base.h
+d/Users/jarinudom/projects/spacecrash/src/sys.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/jarinudom/projects/spacecrash/src/sys_osx.cpp209"[1mCompileC[0m build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o [1m/Users/jarinudom/projects/spacecrash/src/sys_osx.cpp[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb6672287f31db841^f7b17a87f31db841^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/jarinudom/projects/spacecrash/src/sys_osx.cpp0000000000000000^2881"[1mCompileC[0m build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o [1m/Users/jarinudom/projects/spacecrash/src/sys_osx.cpp[0m normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jarinudom/projects/spacecrash/scosx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=106 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-generated-files.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-own-target-headers.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-all-target-headers.hmap -iquote /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/scosx-project-headers.hmap -I/Users/jarinudom/projects/spacecrash/scosx/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/DerivedSources/x86_64 -I/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/DerivedSources -F/Users/jarinudom/projects/spacecrash/scosx/build/Release -MMD -MT dependencies -MF /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.d --serialize-diagnostics /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.dia -c /Users/jarinudom/projects/spacecrash/src/sys_osx.cpp -o /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o36"4F68EA86-2DCB-4D0C-9B8A-532CF2C7DCA3-
+b6E967034-BF60-45C6-8AB3-E7CA2E32FCF2
+
+CGenerateDSYMFile /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx.dSYM /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx
+s404616071.609668
+e404616071.651240
+r1
+xGenerateDSYMFile
+x/Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx.dSYM
+x/Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Generate /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx.dSYM77"[1mGenerateDSYMFile[0m [1mbuild/Release/scosx.dSYM[0m build/Release/scosx4b219c87f31db841^52b8a687f31db841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx.dSYM0034c4d8ddffdf42^362"[1mGenerateDSYMFile[0m [1mbuild/Release/scosx.dSYM[0m build/Release/scosx    cd /Users/jarinudom/projects/spacecrash/scosx    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx -o /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx.dSYM36"E3409A87-FADD-4502-98A0-E2B7E80C1ADF-
+b6E967034-BF60-45C6-8AB3-E7CA2E32FCF2
+
+CLd /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx normal x86_64
+s404616071.480127
+e404616071.608971
+r1
+xLd
+x/Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx
+xnormal
+xx86_64
+d/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/scosx.LinkFileList
+d/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/game.o
+d/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/sys_osx.o
+d/Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/stdafx.o
+d/usr/local/lib/libglfw.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Link /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx44"[1mLd[0m build/Release/scosx normal x86_649cfc7a87f31db841^92e69b87f31db841^---0#0#1#--972"[1mLd[0m build/Release/scosx normal x86_64    cd /Users/jarinudom/projects/spacecrash/scosx    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/jarinudom/projects/spacecrash/scosx/build/Release -L/usr/local/lib -F/Users/jarinudom/projects/spacecrash/scosx/build/Release -filelist /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/scosx.LinkFileList -mmacosx-version-min=10.9 -lglfw -stdlib=libc++ -framework Cocoa -framework IOKit -framework OpenAL -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/jarinudom/projects/spacecrash/scosx/build/scosx.build/Release/scosx.build/Objects-normal/x86_64/scosx_dependency_info.dat -o /Users/jarinudom/projects/spacecrash/scosx/build/Release/scosx36"C80EBD6C-6A7B-4D4E-992C-79AF5F0E4DFF-
+b6E967034-BF60-45C6-8AB3-E7CA2E32FCF2
+

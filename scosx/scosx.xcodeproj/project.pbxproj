@@ -14,6 +14,7 @@
 		0D6456DA181DEEAE001C65AC /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D6456D9181DEEAE001C65AC /* OpenAL.framework */; };
 		0D6456DC181DEEB4001C65AC /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D6456DB181DEEB4001C65AC /* IOKit.framework */; };
 		0D6456DE181DEEBA001C65AC /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D6456DD181DEEBA001C65AC /* Cocoa.framework */; };
+		0D956C58181DFE6C00A960A0 /* core.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0D956C56181DFE6C00A960A0 /* core.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +41,8 @@
 		0D6456D9181DEEAE001C65AC /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
 		0D6456DB181DEEB4001C65AC /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
 		0D6456DD181DEEBA001C65AC /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		0D956C56181DFE6C00A960A0 /* core.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = core.cpp; path = ../src/core.cpp; sourceTree = "<group>"; };
+		0D956C57181DFE6C00A960A0 /* core.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = core.h; path = ../src/core.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 				0D6456D7181DEEA9001C65AC /* OpenGL.framework */,
 				0D6456CE181DEDF6001C65AC /* base.h */,
 				0D6456CF181DEDF6001C65AC /* game.cpp */,
+				0D956C56181DFE6C00A960A0 /* core.cpp */,
+				0D956C57181DFE6C00A960A0 /* core.h */,
 				0D6456D0181DEDF6001C65AC /* stdafx.cpp */,
 				0D6456D1181DEDF6001C65AC /* stdafx.h */,
 				0D6456D2181DEDF6001C65AC /* sys_osx.cpp */,
@@ -135,6 +140,7 @@
 			files = (
 				0D6456D4181DEDF6001C65AC /* game.cpp in Sources */,
 				0D6456D6181DEDF6001C65AC /* sys_osx.cpp in Sources */,
+				0D956C58181DFE6C00A960A0 /* core.cpp in Sources */,
 				0D6456D5181DEDF6001C65AC /* stdafx.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,6 +263,7 @@
 				0D6456CD181DEDC5001C65AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
